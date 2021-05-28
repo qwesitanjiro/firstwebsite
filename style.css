@@ -4,7 +4,7 @@ padding: 0;
 }
 
 body{
-    background-image: url('body-background.jpg');
+    background-image: url('/images/body-background.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
